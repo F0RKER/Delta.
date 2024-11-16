@@ -1,5 +1,5 @@
 # Welcome to Delta!
-Code executor for Chrome. Simple alternative to the dev console (f12
+Code executor for Chrome. Simple alternative to the dev console [F12]
 Contains pre-made scripts and a save/load system for scripts.
 Pair with the companion extension for optimal performance
 
